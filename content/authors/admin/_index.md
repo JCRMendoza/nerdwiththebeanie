@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Hi there, my name is Janelle C.R. Mendoza and I am a first year PhD student interested in computational modeling and social learning. I've decided to catelog all my research projects on a website to share my work. The website is still under construction!
+Hi there, my name is Janelle C.R. Mendoza and I am a first year PhD student interested in computational modeling and social learning. I've built this website to function as my online resume, but it also includes my side projects that are not related to my degree journey. Currently this website is under construction, but I've decided to leave it publish for easy reference.
