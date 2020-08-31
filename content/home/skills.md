@@ -33,9 +33,9 @@ subtitle = ""
 #  description = "10%"
 
  [[feature]]
-  icon = "paw"
+  icon = "terminal"
   icon_pack = "fas"
-  name = "Mammalogy"
+  name = "emacs"
 
 # Uncomment to use emoji icons.
 # [[feature]]
