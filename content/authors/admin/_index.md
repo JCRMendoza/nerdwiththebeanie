@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational modeling of learning and behavior
+bio: My research interests include computational modeling of learning and behavior.
 
 interests:
 - Computational Modeling
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Hi there, my name is Janelle C.R. Mendoza and I am a first year PhD student interested in computational modeling and social learning. I've built this website to house my academic career, but it also includes my side projects that are not related to my degree journey. Currently this website is under construction, but I've decided to leave it publish for easy reference and as an example for my peers.
+Hi there, my name is Janelle C.R. Mendoza and I am a first year PhD student interested in computational modeling and social learning. I've built this website to house my academic career, but it also includes my side projects that are not related to my degree journey. This website is currently under construction, but I've decided to leave it publish for easy reference and as an example for my peers.
