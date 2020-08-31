@@ -14,23 +14,28 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-# [[feature]]
-#  icon = "r-project"
-#  icon_pack = "fab"
-#  name = "R"
+ [[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
 #  description = "90%"
   
-# [[feature]]
-#  icon = "chart-line"
-#  icon_pack = "fas"
-#  name = "Statistics"
+ [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
 #  description = "100%"  
   
-# [[feature]]
-#  icon = "camera-retro"
-#  icon_pack = "fas"
-#  name = "Photography"
+ [[feature]]
+  icon = "square-root-alt"
+  icon_pack = "fas"
+  name = "Logical Proofs"
 #  description = "10%"
+
+  [[feature]]
+    icon = "paw"
+    icon_pack = "fas"
+    name = "Mammalogy"
 
 # Uncomment to use emoji icons.
 # [[feature]]
