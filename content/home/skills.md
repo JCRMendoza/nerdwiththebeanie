@@ -20,10 +20,10 @@ subtitle = ""
   name = "R"
 #  description = "90%"
   
- [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+# [[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
 #  description = "100%"  
   
  [[feature]]
@@ -32,10 +32,10 @@ subtitle = ""
   name = "Logical Proofs"
 #  description = "10%"
 
-  [[feature]]
-    icon = "paw"
-    icon_pack = "fas"
-    name = "Mammalogy"
+ [[feature]]
+  icon = "paw"
+  icon_pack = "fas"
+  name = "Mammalogy"
 
 # Uncomment to use emoji icons.
 # [[feature]]
